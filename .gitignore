@@ -1,0 +1,48 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Build directories
+dist/
+dist-ssr/
+build/
+
+# Local environment files
+.env
+.env.*.local
+
+# Editor directories and files
+.vscode/
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# IDE-specific
+/.vscode/settings.json
+/.vscode/tasks.json
+/.vscode/launch.json
+
+# ESLint cache
+.eslintcache
+
+# Tailwind CSS jit cache
+.tailwindcache/
+
+# Linting and formatting
+!.prettierignore
+!.eslintrc.js
+
+# Testing coverage reports
+coverage/
