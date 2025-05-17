@@ -28,8 +28,9 @@ Follow these instructions to set up the project locally on your machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/personal-portfolio.git
-cd personal-portfolio
+git clone https://github.com/Aniket-Katoch/React-Personal-Portfolio.git
+cd React-Personal-Portfolio
+
 npm install
 npm run dev
 
