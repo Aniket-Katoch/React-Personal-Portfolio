@@ -33,5 +33,8 @@ cd personal-portfolio
 npm install
 npm run dev
 
-## 🙋‍♂️ Author Aniket Kaotch
-GitHub(https://github.com/Aniket-Katoch)
+
+## 🙋‍♂️ Author
+
+**Aniket Katoch**  
+[GitHub](https://github.com/Aniket-Katoch)
